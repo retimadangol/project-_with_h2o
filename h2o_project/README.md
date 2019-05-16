@@ -15,7 +15,7 @@
 
 ## 5: Hyperparameter Search and Stacked Ensembles
 
-All the hyper parameters after the grid search were saved locally and zipped up.
+All the hyper parameters after the grid search were saved locally and zipped up.\n
 •	GLM grid search was saved as: “grid_hyperparams_GLM.json”
 •	GBM grid search was saved as: “grid_hyperparams_GBM.json”
 •	Deep Learning grid search was saved as: “grid_hyperparams_dl.json”
